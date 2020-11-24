@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#planetPic {
+      width: 100%;
+      height: auto;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+}
+
+#header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    color: white;
+    background-color: white;
+}
+
+nav {
+    padding: 0px 10px;
+}
+
+#small {
+    font-size:12px;
+}
+
+#big {
+    font-size: 50px;
+}
